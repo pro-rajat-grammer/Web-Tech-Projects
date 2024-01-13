@@ -1,0 +1,258 @@
+
+
+*margin{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background: linear-gradient(green ,blue );
+}
+
+nav{
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    margin: 0px 0px 0px 0px  ;
+    width: 1440px ;
+
+}
+
+svg{
+
+    height: 60px;
+    margin: 60px;
+}
+
+
+
+
+.form-container{
+    position: absolute;
+    text-align: center;
+    background-color: rgb(127, 22, 22);
+    height: 1200px;
+    margin: 0px 0px 0px 0px  ;
+
+    }
+
+
+.heading{
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    margin: 30px 0px 0px 600px;
+    width: 300px;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: aliceblue;
+    padding: 0px;    
+    
+}
+
+.google-btn{
+    position: absolute;
+    border-radius: 20px;
+    border-color: rgb(228, 228, 228);
+    height: 50px;
+    width: 500px;
+    background-color: rgba(24, 24, 24, 0.776);
+    left: 500px;
+    top: 150px;
+    
+}
+
+.google-btn img { 
+    position: absolute;
+    margin: 10px -40px;
+    left: 100px;
+    height: 30PX;
+    
+ 
+}
+    
+ .p {
+    
+    color: aliceblue;
+    font-size: 1.em;
+    height: 20px;
+    width: 200px;
+    margin: 12px 10px 10px 150px;
+}
+    
+      
+.fb-btn{
+    position: absolute;
+    border-radius: 20px;
+    height: 50px;
+    width: 500px;
+    background-color:rgba(24, 24, 24, 0.776);
+    left: 500px;
+    top: 220px;
+}
+
+.fb-btn img { 
+    position: absolute;
+    margin: 10px 10px 10px -40px;
+    left: 100px;
+    height: 30PX;
+    
+ 
+}
+    
+.apple-btm{
+    position: absolute;
+    border-radius: 20px;
+    height: 50px;
+    width: 500px;
+    background-color:rgba(24, 24, 24, 0.776);
+    left: 500px;
+    top: 290px;
+}
+
+.apple-btm img { 
+    position: absolute;
+    margin: 10px 10px 10px -40px;
+    left: 100px;
+    height: 30PX;
+    display: inline;
+ 
+}
+
+.phone-btm{
+    position: absolute;
+    border-radius: 20px;
+    height: 50px;
+    width: 500px;
+    background-color: rgba(24, 24, 24, 0.776);
+    left: 0px;
+    top: 70px;
+}
+
+.phone-btm img { 
+    position: absolute;
+    margin: 10px 10px 10px -40px;
+    left: 100px;
+    height: 30PX;
+    display: inline;
+    
+ 
+}
+
+hr{position: absolute;
+top: 200px;
+width: 600px;
+left: -50px;
+}
+
+
+
+form{
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    height: 220px;
+    margin: 250px 0px 0px 0px  ;
+    width: 500px; 
+}
+
+
+.input{
+
+    position: absolute;
+    
+    font-size: 1.3em;
+
+    color: aliceblue;
+
+    margin: 0px 0px 0px 0px;
+    
+}
+.input1{
+
+    position: absolute;
+    
+    font-size: 1.3em;
+
+    color: rgb(255, 255, 255);
+
+    top: 100px;
+    
+}
+
+
+input{
+width: 495px;  
+height: 40px;  
+color: black;
+background-color: black;
+}
+
+.input label{
+
+    margin: 0px 0px 0px -330px ;
+}
+
+.input1 label{
+position: absolute;
+    margin: 0px 0px 0px -245px ;
+    
+
+}
+
+.check-box label{
+ position: absolute;
+    margin: 0px 0px 0px 40px ;
+    color: rgb(255, 255, 255);
+
+}
+
+.check-box{
+    position: absolute;
+    top: 200px;}
+
+.btn{
+
+    position: absolute;
+    top: 250px;
+
+    
+    
+}
+
+
+.btn button{
+
+    width: 500px;
+    height: 40px;
+    border-radius: 40px;
+    font-size: 1.3em;
+    color: rgb(0, 0, 0);
+    background-color: rgb(88, 183, 4);
+    
+}
+
+.fr-pass{
+
+    position: absolute;
+    top: 315px;
+    text-align: center;
+    margin: 0px 0px 0px 170px ;
+    font-size: 1.3em;
+}
+
+.fr-pass a {
+    color: rgb(251, 251, 251);
+}
+
+.form-foot{
+
+    position: absolute;
+    top: 700px;
+    left: 170px;
+    color: rgb(187, 198, 207);
+}
+
+.form-foot a {
+
+    color: rgb(255, 255, 255);
+
+}

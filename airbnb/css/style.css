@@ -1,0 +1,338 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body
+{
+
+    background-color: rgb(255, 255, 255);
+
+}
+
+.a1{
+
+    height: 90px;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    margin-top: 0px;
+
+}
+
+.a2{
+ color:orange;
+ margin-left: 70px;  
+}
+
+
+
+.a3{
+
+height: 50px;
+width: 390px;
+background-color: rgb(255, 255, 255);
+margin: 200px;
+border-radius: 25px;
+border: 1px solid black;
+display: flex;
+align-items: center;
+font-size: 1em;
+font-weight: 500;
+
+
+
+
+
+}
+
+.a3 a {
+
+    text-decoration: none;
+
+margin-left: 10px;
+margin-right: 0px;
+padding: 15px;
+color: black;
+
+}
+
+.a3 i {
+
+margin-right: 20px;
+
+}
+
+hr {
+
+    width: 2px;
+    height: 20px;
+    margin-left: 1px;
+    margin-right: -10px;
+
+    background-color: black;
+}
+
+.a4{
+
+    height: 50px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 0px;
+    font-size: 1.8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.a4 a{
+
+    text-decoration: none;
+    color: black;
+    margin-left: 0px;
+    
+}
+
+
+.a4 i {
+
+    padding: 10px;
+}
+
+.a5{
+
+    height: 40px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);  
+    border-radius: 20px;
+    margin-right: 40px;
+    border: 1px solid ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a5 i{
+
+    padding: 10px;
+}
+
+.h12{
+
+    background-color: rgb(159, 159, 159);
+    height: 10px;
+    width: 100vw;
+    position: fixed;
+    top: 90px;
+}
+
+
+div.b1{
+
+    height: 120px;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 91px;
+    position: fixed;
+    
+    
+}
+
+.b2 h1 {
+
+    font-size: .8em;
+    margin-left: 30px;
+    color: rgb(117, 125, 125);
+}
+
+.b2 i {
+    
+    margin-left: 50px;
+    font-size: 3em;
+    color: rgb(151, 146, 140);
+
+}
+.b3{
+
+    font-size: 1.3em;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.b4{
+
+    font-size: 1.5em;
+margin-top: 10px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.b4 h1{
+
+font-size: .7em; 
+margin-top: 10px;   
+}
+
+.c1{
+
+    height: 150px;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+display: flex;
+    justify-content: center;
+align-items: center;
+position: ;
+margin-top: px;}
+
+
+.c2{
+    height: 100px;
+    width: 50vw;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: ;
+    margin-top: 410px;
+}
+
+.c3{
+
+    display: flex;
+    justify-content: center;align-items: center; 
+     height: 50px;
+     width: 490px;
+     background-color: rgb(255, 255, 255);
+    margin-left: 0px;
+    border-radius: 13px;
+    border: 2px solid black;
+    margin-top: -40px;
+
+    
+}
+
+.c3 h5{
+
+    padding: 50px;
+font-size: 1.2em;
+}
+
+.c3 hr {
+
+    color: black;
+    background-color: black;
+}
+
+
+.d1{
+
+height: 1800px;
+width: 100vw;
+background-color: rgb(255, 255, 255);
+display: grid;
+grid-template-columns: 320px 320px 320px 0px ;
+margin-top: 200px;
+}
+
+
+
+.d {
+
+    height: 350px;
+    width: 290px;
+    background-color: rgb(255, 255, 255);
+   padding: px;
+   border: 9px solid rgb(255, 255, 255);
+   margin-left: 50px;
+    
+ 
+    }
+
+.d img{
+
+    height: 320px;
+    width: 290px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+
+.d h6 {
+
+font-size: 1.2em;
+margin-left: 20px;
+color: rgb(0, 0, 0);
+
+}
+
+.d p{
+
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.e{
+
+    height: 50px;
+    width: 100vw;
+    background-color: rgb(146, 72, 72);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.e1
+
+{
+
+    height: 50px;
+    width: 900px;
+    background-color: rgb(84, 44, 44);
+   
+}
+
+ul{  display: flex;
+
+    justify-content: center;
+    margin-left: -90px;
+    margin-top: 20px;
+
+}
+
+li{
+
+background-color: rgb(27, 146, 43);
+    padding: px;
+    width: 120px;
+    font-size: .9em;
+    
+}
+
+.e2{
+
+    height: 50px;
+    width: 400px;
+    background-color: rgb(22, 58, 128);
+    margin-left: 20px;
+
+}
+
+.e2 h6{
+
+font-size: .9em;
+margin-top: 20px;
+}
